@@ -1,5 +1,15 @@
 {
-    "QUESTION 1" : "ANSWER A",
-    "QUESTION 2" : "ANSWER B",
-    "QUESTION 3" : "ANSWER C"
+    "What is an advantage of HIPS that is not provided by IDS?" : "HIPS protects critical system resources and monitors operating system processes.",
+    "Which statement describes a difference between RADIUS and TACACS+?" : "RADIUS encrypts only the password whereas TACACS+ encrypts all communication.",
+    "What are two disadvantages of using an IDS? (Choose two.)" : "The IDS does not stop malicious traffic.; The IDS requires other devices to respond to attacks.",
+    "Which statement describes one of the rules that govern interface behavior in the context of implementing a zone-based policy firewall configuration?" : "By default, traffic is allowed to flow among interfaces that are members of the same zone.",
+    "Which technique is necessary to ensure a private transfer of data using a VPN?" : "encryption",
+    "What is the function of the distribution layer of the three-layer network design model?" : "aggregating access layer connections",
+    "What two components of traditional web security appliances are examples of functions integrated into a Cisco Web Security Appliance? (Choose two.)" : "web reporting ; URL filtering",
+    "Which AAA component can be established using token cards?" : "authentication",
+    "Which statement describes a VPN?" : "VPNs use virtual connections to create a private network through a public network.",
+    "What is a host-based intrusion detection system (HIDS)?" : "It combines the functionalities of antimalware applications with firewall protection.",
+    "Which two devices would commonly be found at the access layer of the hierarchical enterprise LAN design model? (Choose two.)" : "Layer 2 switch ; access point",
+    "Which two statements are true about NTP servers in an enterprise network? (Choose two.)" : "NTP servers at stratum 1 are directly connected to an authoritative time source. ; NTP servers ensure an accurate time stamp on logging and debugging information.",
+    "QUESTION" : "ANSWER"
 }
