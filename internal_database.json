@@ -28,7 +28,7 @@
     "In which memory location is the routing table of a router maintained?" : "RAM",
     "Lightweight access points forward data between which two devices on the network? (Choose two.)" : "wireless LAN controller ; wireless client",
     "A Cisco router is running IOS 15. What are the two routing table entry types that will be added when a network administrator brings an interface up and assigns an IP address to the interface? (Choose two.)" : "local route interface ; directly connected interface",
-    "" : "",
+    "Match the security service with the description." : {"allows administrator to manage network devices": "SNMP", "a series of commands that control whether a device forwards or drops packets" : "ACL"},
     "" : "",
     "" : "",
     "" : "",
