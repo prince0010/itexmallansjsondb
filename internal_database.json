@@ -470,7 +470,7 @@
     "Why would an attacker want to spoof a MAC address?" : "so that a switch on the LAN will start forwarding frames to the attacker instead of to the legitimate host",
     "Which two characteristics describe a virus? (Choose two.)" : "Malicious code that can remain dormant before executing an unwanted action. ; Malware that relies on the action of a user or a program to activate.",
     "Which type of security attack would attempt a buffer overflow?" : "DoS",
-    "" : "",
+    "Why is asset management a critical function of a growing organization against security threats?" : "It identifies the ever increasing attack surface to threats.",
     "" : "",
     "" : "",
     "" : "",
