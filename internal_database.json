@@ -621,5 +621,6 @@
     "Which meta-feature element in the Diamond Model describes information gained by the adversary?" : "results",
     "In which step of the NIST incident response process does the CSIRT perform an analysis to determine which networks, systems, or applications are affected; who or what originated the incident; and how the incident is occurring?" : "scoping",
     "Which classification indicates that an alert is verified as an actual security incident?" : "true positive",
+    "Which algorithm provides asymmetric encryption?" : "Diffie-Hellman (DH)",
     "" : ""
 }
