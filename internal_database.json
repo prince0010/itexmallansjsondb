@@ -824,5 +824,6 @@
     "length of time that threat actors have access to a network before their access is stopped" : "Dwell Time",
     "average time to identify that valid security incidents have occurred in the network" : "MTTD",
     "average time that it takes to stop and remediate a security incident" : "MTTR",
+    "In a smart home, an owner has connected many home devices to the Internet, such as the refrigerator and the coffee maker. The owner is concerned that these devices will make the wireless network vulnerable to attacks. What action could be taken to address this issue?" : "Install the latest firmware versions for the devices.",
     "" : ""
 }
