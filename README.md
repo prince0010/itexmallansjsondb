@@ -4,9 +4,9 @@ Educational Purposes Only
 # Added
 ### CyberOps Subject
 
-QUIZES 11-28
+QUIZES 1-28
 
-CHAPTER EXAMS 11-28
+CHAPTER EXAMS 1-2, 11-28
 
 > Added Some Questions Update
  - MODULES EXAM 13-17
